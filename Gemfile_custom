@@ -24,3 +24,5 @@
 #
 # Add your custom gem dependencies here
 gem "ruby-openai"
+gem "ed25519" ,"~> 1.2"
+gem "bcrypt_pbkdf", "~> 1.0"
